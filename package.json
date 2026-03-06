@@ -1,0 +1,53 @@
+{
+  "name": "indiatoeu",
+  "version": "2.0.0",
+  "description": "Structured reference dataset for the 2026 India-EU bilateral agreements — visa cascade tiers, FTA tariff sectors, EU country profiles, salary benchmarks, and agreement tracking data.",
+  "main": "index.js",
+  "types": "types.d.ts",
+  "type": "module",
+  "exports": {
+    ".": {
+      "import": "./index.js",
+      "types": "./types.d.ts"
+    },
+    "./data/*": "./data/*"
+  },
+  "keywords": [
+    "india-eu",
+    "india-eu-fta",
+    "schengen-visa",
+    "eu-trade-data",
+    "india-europe",
+    "fta-tariff-data",
+    "eu-salary-data",
+    "cascade-visa",
+    "eu-blue-card",
+    "india-eu-agreement",
+    "trade-agreement",
+    "eu-country-data",
+    "mobility-pact",
+    "bilateral-agreements"
+  ],
+  "homepage": "https://indiatoeu.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indiatoeu/indiatoeu.git"
+  },
+  "bugs": {
+    "url": "https://github.com/indiatoeu/indiatoeu/issues"
+  },
+  "author": {
+    "name": "IndiaToEU",
+    "email": "info@indiatoeu.com",
+    "url": "https://indiatoeu.com"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "types.d.ts",
+    "data/",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ]
+}

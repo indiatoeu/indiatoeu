@@ -1,0 +1,520 @@
+{
+    "description": "All 27 EU member states with key reference data for India-EU trade & mobility tools.",
+    "last_updated": "2026-03-06",
+    "source": "https://indiatoeu.com",
+    "countries": [
+        {
+            "name": "Germany",
+            "code": "DE",
+            "capital": "Berlin",
+            "schengen": true,
+            "currency": "EUR",
+            "avg_gross_salary_eur": 54000,
+            "income_tax_rate_pct": 42,
+            "blue_card_min_salary_eur": 43992,
+            "indian_diaspora_estimate": 175000,
+            "top_trade_sectors": [
+                "automotive",
+                "machinery",
+                "pharmaceuticals",
+                "chemicals"
+            ],
+            "embassy_city": "New Delhi",
+            "timezone": "CET"
+        },
+        {
+            "name": "France",
+            "code": "FR",
+            "capital": "Paris",
+            "schengen": true,
+            "currency": "EUR",
+            "avg_gross_salary_eur": 44000,
+            "income_tax_rate_pct": 45,
+            "blue_card_min_salary_eur": 38688,
+            "indian_diaspora_estimate": 120000,
+            "top_trade_sectors": [
+                "aerospace",
+                "luxury goods",
+                "wine",
+                "pharmaceuticals"
+            ],
+            "embassy_city": "New Delhi",
+            "timezone": "CET"
+        },
+        {
+            "name": "Netherlands",
+            "code": "NL",
+            "capital": "Amsterdam",
+            "schengen": true,
+            "currency": "EUR",
+            "avg_gross_salary_eur": 52000,
+            "income_tax_rate_pct": 49.5,
+            "blue_card_min_salary_eur": 45696,
+            "indian_diaspora_estimate": 72000,
+            "top_trade_sectors": [
+                "technology",
+                "agriculture",
+                "petrochemicals",
+                "logistics"
+            ],
+            "embassy_city": "New Delhi",
+            "timezone": "CET"
+        },
+        {
+            "name": "Italy",
+            "code": "IT",
+            "capital": "Rome",
+            "schengen": true,
+            "currency": "EUR",
+            "avg_gross_salary_eur": 34000,
+            "income_tax_rate_pct": 43,
+            "blue_card_min_salary_eur": 29880,
+            "indian_diaspora_estimate": 180000,
+            "top_trade_sectors": [
+                "textiles",
+                "leather",
+                "machinery",
+                "food processing"
+            ],
+            "embassy_city": "New Delhi",
+            "timezone": "CET"
+        },
+        {
+            "name": "Spain",
+            "code": "ES",
+            "capital": "Madrid",
+            "schengen": true,
+            "currency": "EUR",
+            "avg_gross_salary_eur": 30000,
+            "income_tax_rate_pct": 47,
+            "blue_card_min_salary_eur": 26400,
+            "indian_diaspora_estimate": 55000,
+            "top_trade_sectors": [
+                "agriculture",
+                "automotive",
+                "renewable energy",
+                "tourism"
+            ],
+            "embassy_city": "New Delhi",
+            "timezone": "CET"
+        },
+        {
+            "name": "Belgium",
+            "code": "BE",
+            "capital": "Brussels",
+            "schengen": true,
+            "currency": "EUR",
+            "avg_gross_salary_eur": 49000,
+            "income_tax_rate_pct": 50,
+            "blue_card_min_salary_eur": 43068,
+            "indian_diaspora_estimate": 48000,
+            "top_trade_sectors": [
+                "diamonds",
+                "chemicals",
+                "pharmaceuticals",
+                "logistics"
+            ],
+            "embassy_city": "New Delhi",
+            "timezone": "CET"
+        },
+        {
+            "name": "Poland",
+            "code": "PL",
+            "capital": "Warsaw",
+            "schengen": true,
+            "currency": "PLN",
+            "avg_gross_salary_eur": 18000,
+            "income_tax_rate_pct": 32,
+            "blue_card_min_salary_eur": 15840,
+            "indian_diaspora_estimate": 22000,
+            "top_trade_sectors": [
+                "IT outsourcing",
+                "automotive parts",
+                "agriculture",
+                "furniture"
+            ],
+            "embassy_city": "New Delhi",
+            "timezone": "CET"
+        },
+        {
+            "name": "Sweden",
+            "code": "SE",
+            "capital": "Stockholm",
+            "schengen": true,
+            "currency": "SEK",
+            "avg_gross_salary_eur": 46000,
+            "income_tax_rate_pct": 52,
+            "blue_card_min_salary_eur": 40452,
+            "indian_diaspora_estimate": 35000,
+            "top_trade_sectors": [
+                "technology",
+                "green energy",
+                "telecom",
+                "heavy machinery"
+            ],
+            "embassy_city": "New Delhi",
+            "timezone": "CET"
+        },
+        {
+            "name": "Austria",
+            "code": "AT",
+            "capital": "Vienna",
+            "schengen": true,
+            "currency": "EUR",
+            "avg_gross_salary_eur": 48000,
+            "income_tax_rate_pct": 50,
+            "blue_card_min_salary_eur": 42192,
+            "indian_diaspora_estimate": 18000,
+            "top_trade_sectors": [
+                "machinery",
+                "electronics",
+                "tourism",
+                "timber"
+            ],
+            "embassy_city": "New Delhi",
+            "timezone": "CET"
+        },
+        {
+            "name": "Denmark",
+            "code": "DK",
+            "capital": "Copenhagen",
+            "schengen": true,
+            "currency": "DKK",
+            "avg_gross_salary_eur": 57000,
+            "income_tax_rate_pct": 55.9,
+            "blue_card_min_salary_eur": 50112,
+            "indian_diaspora_estimate": 14000,
+            "top_trade_sectors": [
+                "wind energy",
+                "pharmaceuticals",
+                "shipping",
+                "agriculture"
+            ],
+            "embassy_city": "New Delhi",
+            "timezone": "CET"
+        },
+        {
+            "name": "Finland",
+            "code": "FI",
+            "capital": "Helsinki",
+            "schengen": true,
+            "currency": "EUR",
+            "avg_gross_salary_eur": 44000,
+            "income_tax_rate_pct": 51.25,
+            "blue_card_min_salary_eur": 38688,
+            "indian_diaspora_estimate": 12000,
+            "top_trade_sectors": [
+                "technology",
+                "forestry",
+                "metals",
+                "gaming"
+            ],
+            "embassy_city": "New Delhi",
+            "timezone": "EET"
+        },
+        {
+            "name": "Ireland",
+            "code": "IE",
+            "capital": "Dublin",
+            "schengen": false,
+            "currency": "EUR",
+            "avg_gross_salary_eur": 52000,
+            "income_tax_rate_pct": 40,
+            "blue_card_min_salary_eur": 45696,
+            "indian_diaspora_estimate": 85000,
+            "top_trade_sectors": [
+                "technology",
+                "pharmaceuticals",
+                "financial services",
+                "agriculture"
+            ],
+            "embassy_city": "New Delhi",
+            "timezone": "GMT"
+        },
+        {
+            "name": "Portugal",
+            "code": "PT",
+            "capital": "Lisbon",
+            "schengen": true,
+            "currency": "EUR",
+            "avg_gross_salary_eur": 22000,
+            "income_tax_rate_pct": 48,
+            "blue_card_min_salary_eur": 19344,
+            "indian_diaspora_estimate": 95000,
+            "top_trade_sectors": [
+                "textiles",
+                "cork",
+                "wine",
+                "IT services"
+            ],
+            "embassy_city": "New Delhi",
+            "timezone": "WET"
+        },
+        {
+            "name": "Czech Republic",
+            "code": "CZ",
+            "capital": "Prague",
+            "schengen": true,
+            "currency": "CZK",
+            "avg_gross_salary_eur": 21000,
+            "income_tax_rate_pct": 23,
+            "blue_card_min_salary_eur": 18468,
+            "indian_diaspora_estimate": 8000,
+            "top_trade_sectors": [
+                "automotive",
+                "electronics",
+                "glass",
+                "machinery"
+            ],
+            "embassy_city": "New Delhi",
+            "timezone": "CET"
+        },
+        {
+            "name": "Romania",
+            "code": "RO",
+            "capital": "Bucharest",
+            "schengen": true,
+            "currency": "RON",
+            "avg_gross_salary_eur": 15000,
+            "income_tax_rate_pct": 10,
+            "blue_card_min_salary_eur": 13188,
+            "indian_diaspora_estimate": 6000,
+            "top_trade_sectors": [
+                "IT outsourcing",
+                "agriculture",
+                "automotive",
+                "textiles"
+            ],
+            "embassy_city": "New Delhi",
+            "timezone": "EET"
+        },
+        {
+            "name": "Greece",
+            "code": "GR",
+            "capital": "Athens",
+            "schengen": true,
+            "currency": "EUR",
+            "avg_gross_salary_eur": 20000,
+            "income_tax_rate_pct": 44,
+            "blue_card_min_salary_eur": 17580,
+            "indian_diaspora_estimate": 10000,
+            "top_trade_sectors": [
+                "shipping",
+                "tourism",
+                "agriculture",
+                "food processing"
+            ],
+            "embassy_city": "New Delhi",
+            "timezone": "EET"
+        },
+        {
+            "name": "Hungary",
+            "code": "HU",
+            "capital": "Budapest",
+            "schengen": true,
+            "currency": "HUF",
+            "avg_gross_salary_eur": 17000,
+            "income_tax_rate_pct": 15,
+            "blue_card_min_salary_eur": 14940,
+            "indian_diaspora_estimate": 5000,
+            "top_trade_sectors": [
+                "automotive",
+                "electronics",
+                "pharmaceuticals",
+                "agriculture"
+            ],
+            "embassy_city": "New Delhi",
+            "timezone": "CET"
+        },
+        {
+            "name": "Luxembourg",
+            "code": "LU",
+            "capital": "Luxembourg City",
+            "schengen": true,
+            "currency": "EUR",
+            "avg_gross_salary_eur": 72000,
+            "income_tax_rate_pct": 42,
+            "blue_card_min_salary_eur": 63288,
+            "indian_diaspora_estimate": 3000,
+            "top_trade_sectors": [
+                "financial services",
+                "steel",
+                "technology",
+                "space industry"
+            ],
+            "embassy_city": "Brussels",
+            "timezone": "CET"
+        },
+        {
+            "name": "Bulgaria",
+            "code": "BG",
+            "capital": "Sofia",
+            "schengen": true,
+            "currency": "BGN",
+            "avg_gross_salary_eur": 12000,
+            "income_tax_rate_pct": 10,
+            "blue_card_min_salary_eur": 10548,
+            "indian_diaspora_estimate": 4000,
+            "top_trade_sectors": [
+                "IT outsourcing",
+                "agriculture",
+                "metals",
+                "textiles"
+            ],
+            "embassy_city": "New Delhi",
+            "timezone": "EET"
+        },
+        {
+            "name": "Croatia",
+            "code": "HR",
+            "capital": "Zagreb",
+            "schengen": true,
+            "currency": "EUR",
+            "avg_gross_salary_eur": 17000,
+            "income_tax_rate_pct": 30,
+            "blue_card_min_salary_eur": 14940,
+            "indian_diaspora_estimate": 2000,
+            "top_trade_sectors": [
+                "tourism",
+                "agriculture",
+                "shipbuilding",
+                "IT"
+            ],
+            "embassy_city": "New Delhi",
+            "timezone": "CET"
+        },
+        {
+            "name": "Slovakia",
+            "code": "SK",
+            "capital": "Bratislava",
+            "schengen": true,
+            "currency": "EUR",
+            "avg_gross_salary_eur": 16000,
+            "income_tax_rate_pct": 25,
+            "blue_card_min_salary_eur": 14064,
+            "indian_diaspora_estimate": 3000,
+            "top_trade_sectors": [
+                "automotive",
+                "electronics",
+                "IT services",
+                "steel"
+            ],
+            "embassy_city": "New Delhi",
+            "timezone": "CET"
+        },
+        {
+            "name": "Slovenia",
+            "code": "SI",
+            "capital": "Ljubljana",
+            "schengen": true,
+            "currency": "EUR",
+            "avg_gross_salary_eur": 24000,
+            "income_tax_rate_pct": 50,
+            "blue_card_min_salary_eur": 21096,
+            "indian_diaspora_estimate": 1000,
+            "top_trade_sectors": [
+                "pharmaceuticals",
+                "automotive parts",
+                "electronics",
+                "tourism"
+            ],
+            "embassy_city": "New Delhi",
+            "timezone": "CET"
+        },
+        {
+            "name": "Lithuania",
+            "code": "LT",
+            "capital": "Vilnius",
+            "schengen": true,
+            "currency": "EUR",
+            "avg_gross_salary_eur": 20000,
+            "income_tax_rate_pct": 32,
+            "blue_card_min_salary_eur": 17580,
+            "indian_diaspora_estimate": 2500,
+            "top_trade_sectors": [
+                "fintech",
+                "laser technology",
+                "agriculture",
+                "IT"
+            ],
+            "embassy_city": "New Delhi",
+            "timezone": "EET"
+        },
+        {
+            "name": "Latvia",
+            "code": "LV",
+            "capital": "Riga",
+            "schengen": true,
+            "currency": "EUR",
+            "avg_gross_salary_eur": 17000,
+            "income_tax_rate_pct": 31,
+            "blue_card_min_salary_eur": 14940,
+            "indian_diaspora_estimate": 1500,
+            "top_trade_sectors": [
+                "timber",
+                "electronics",
+                "IT services",
+                "agriculture"
+            ],
+            "embassy_city": "New Delhi",
+            "timezone": "EET"
+        },
+        {
+            "name": "Estonia",
+            "code": "EE",
+            "capital": "Tallinn",
+            "schengen": true,
+            "currency": "EUR",
+            "avg_gross_salary_eur": 22000,
+            "income_tax_rate_pct": 20,
+            "blue_card_min_salary_eur": 19344,
+            "indian_diaspora_estimate": 3000,
+            "top_trade_sectors": [
+                "digital services",
+                "fintech",
+                "e-governance",
+                "timber"
+            ],
+            "embassy_city": "New Delhi",
+            "timezone": "EET"
+        },
+        {
+            "name": "Cyprus",
+            "code": "CY",
+            "capital": "Nicosia",
+            "schengen": false,
+            "currency": "EUR",
+            "avg_gross_salary_eur": 24000,
+            "income_tax_rate_pct": 35,
+            "blue_card_min_salary_eur": 21096,
+            "indian_diaspora_estimate": 8000,
+            "top_trade_sectors": [
+                "shipping",
+                "financial services",
+                "tourism",
+                "technology"
+            ],
+            "embassy_city": "New Delhi",
+            "timezone": "EET"
+        },
+        {
+            "name": "Malta",
+            "code": "MT",
+            "capital": "Valletta",
+            "schengen": true,
+            "currency": "EUR",
+            "avg_gross_salary_eur": 25000,
+            "income_tax_rate_pct": 35,
+            "blue_card_min_salary_eur": 21972,
+            "indian_diaspora_estimate": 5000,
+            "top_trade_sectors": [
+                "gaming industry",
+                "financial services",
+                "tourism",
+                "aviation"
+            ],
+            "embassy_city": "New Delhi",
+            "timezone": "CET"
+        }
+    ]
+}

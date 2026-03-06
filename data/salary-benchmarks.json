@@ -1,0 +1,136 @@
+{
+    "description": "Salary benchmarks and cost-of-living comparison data for Indians evaluating EU job offers.",
+    "last_updated": "2026-03-06",
+    "source": "https://indiatoeu.com/eu-salary-to-inr-calculator",
+    "exchange_rate": {
+        "eur_to_inr": 91.50,
+        "as_of": "2026-03-01",
+        "source": "European Central Bank reference rate"
+    },
+    "ppp_factor": {
+        "india_ppp_multiplier": 3.8,
+        "description": "€1 earned in EU has approximately €3.80 purchasing power when spent in India after accounting for price level differences."
+    },
+    "benchmarks": [
+        {
+            "country_code": "DE",
+            "country_name": "Germany",
+            "role": "Software Engineer",
+            "experience_years": "3-5",
+            "avg_gross_annual_eur": 65000,
+            "effective_tax_rate_pct": 35,
+            "avg_net_monthly_eur": 3521,
+            "avg_rent_1br_city_eur": 950,
+            "avg_monthly_expenses_eur": 1200,
+            "estimated_monthly_savings_eur": 1371
+        },
+        {
+            "country_code": "DE",
+            "country_name": "Germany",
+            "role": "Data Scientist",
+            "experience_years": "3-5",
+            "avg_gross_annual_eur": 62000,
+            "effective_tax_rate_pct": 34,
+            "avg_net_monthly_eur": 3410,
+            "avg_rent_1br_city_eur": 950,
+            "avg_monthly_expenses_eur": 1200,
+            "estimated_monthly_savings_eur": 1260
+        },
+        {
+            "country_code": "NL",
+            "country_name": "Netherlands",
+            "role": "Software Engineer",
+            "experience_years": "3-5",
+            "avg_gross_annual_eur": 60000,
+            "effective_tax_rate_pct": 37,
+            "avg_net_monthly_eur": 3150,
+            "avg_rent_1br_city_eur": 1200,
+            "avg_monthly_expenses_eur": 1100,
+            "estimated_monthly_savings_eur": 850
+        },
+        {
+            "country_code": "NL",
+            "country_name": "Netherlands",
+            "role": "Product Manager",
+            "experience_years": "5-8",
+            "avg_gross_annual_eur": 75000,
+            "effective_tax_rate_pct": 38,
+            "avg_net_monthly_eur": 3875,
+            "avg_rent_1br_city_eur": 1200,
+            "avg_monthly_expenses_eur": 1100,
+            "estimated_monthly_savings_eur": 1575
+        },
+        {
+            "country_code": "FR",
+            "country_name": "France",
+            "role": "Software Engineer",
+            "experience_years": "3-5",
+            "avg_gross_annual_eur": 50000,
+            "effective_tax_rate_pct": 30,
+            "avg_net_monthly_eur": 2917,
+            "avg_rent_1br_city_eur": 1000,
+            "avg_monthly_expenses_eur": 1050,
+            "estimated_monthly_savings_eur": 867
+        },
+        {
+            "country_code": "IE",
+            "country_name": "Ireland",
+            "role": "Software Engineer",
+            "experience_years": "3-5",
+            "avg_gross_annual_eur": 68000,
+            "effective_tax_rate_pct": 33,
+            "avg_net_monthly_eur": 3797,
+            "avg_rent_1br_city_eur": 1600,
+            "avg_monthly_expenses_eur": 1000,
+            "estimated_monthly_savings_eur": 1197
+        },
+        {
+            "country_code": "SE",
+            "country_name": "Sweden",
+            "role": "Backend Developer",
+            "experience_years": "3-5",
+            "avg_gross_annual_eur": 52000,
+            "effective_tax_rate_pct": 32,
+            "avg_net_monthly_eur": 2947,
+            "avg_rent_1br_city_eur": 900,
+            "avg_monthly_expenses_eur": 1000,
+            "estimated_monthly_savings_eur": 1047
+        },
+        {
+            "country_code": "PL",
+            "country_name": "Poland",
+            "role": "Software Engineer",
+            "experience_years": "3-5",
+            "avg_gross_annual_eur": 28000,
+            "effective_tax_rate_pct": 25,
+            "avg_net_monthly_eur": 1750,
+            "avg_rent_1br_city_eur": 550,
+            "avg_monthly_expenses_eur": 650,
+            "estimated_monthly_savings_eur": 550
+        },
+        {
+            "country_code": "DK",
+            "country_name": "Denmark",
+            "role": "Full Stack Developer",
+            "experience_years": "5-8",
+            "avg_gross_annual_eur": 72000,
+            "effective_tax_rate_pct": 40,
+            "avg_net_monthly_eur": 3600,
+            "avg_rent_1br_city_eur": 1100,
+            "avg_monthly_expenses_eur": 1100,
+            "estimated_monthly_savings_eur": 1400
+        },
+        {
+            "country_code": "IT",
+            "country_name": "Italy",
+            "role": "Software Engineer",
+            "experience_years": "3-5",
+            "avg_gross_annual_eur": 36000,
+            "effective_tax_rate_pct": 30,
+            "avg_net_monthly_eur": 2100,
+            "avg_rent_1br_city_eur": 750,
+            "avg_monthly_expenses_eur": 900,
+            "estimated_monthly_savings_eur": 450
+        }
+    ]
+}

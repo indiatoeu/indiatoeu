@@ -1,0 +1,108 @@
+{
+    "site_name": "indiatoeu.com",
+    "version": "2.0.0",
+    "last_updated": "2026-03-06",
+    "description": "Structured metadata for IndiaToEU.com — the definitive 2026 India-EU bilateral agreements platform.",
+    "pages": [
+        {
+            "page_name": "Home Page",
+            "slug": "/",
+            "title": "India to EU 2026: Complete Visa, FTA & Trade Guide | IndiatoEU",
+            "description": "Official 2026 guide to India-EU relations. Check Schengen visa eligibility, calculate EU salaries in INR, and find duty-free exports under the new FTA.",
+            "keywords": "India EU 2026, India-EU FTA benefits, Schengen visa for Indians 2026, EU salary calculator INR, India Europe trade deal, India-EU mobility pact, EU Blue Card India, Indian exports to Europe",
+            "is_default": true,
+            "category": "landing",
+            "priority": 1.0
+        },
+        {
+            "page_name": "Visa Checker",
+            "slug": "/india-to-eu-visa-checker",
+            "title": "Schengen Visa Checker for Indians 2026 | Cascade Eligibility Tool",
+            "description": "Instantly check if you qualify for 2-Year or 5-Year Schengen multi-entry visa under the 2026 India-EU Mobility Pact. Free eligibility assessment.",
+            "keywords": "Schengen visa checker India, cascade visa regime 2026, multi-entry visa Indians, India EU mobility agreement, 5 year Schengen visa eligibility, Europe visa for Indian passport, long-term EU visa India, visa history calculator",
+            "category": "tool",
+            "priority": 0.9
+        },
+        {
+            "page_name": "Salary Calculator",
+            "slug": "/eu-salary-to-inr-calculator",
+            "title": "EU Salary to INR Calculator 2026 | Tax, PPP & Savings Estimate",
+            "description": "Calculate your real Euro salary value in India. Includes EU tax deductions, cost of living adjustments & PPP comparison. See actual monthly savings.",
+            "keywords": "EU salary to INR calculator, Germany salary vs India comparison, Euro PPP calculator India, IT jobs Europe salary Indians, Blue Card salary savings, cost of living EU vs India, real value Euro in rupees, European salary after tax calculator",
+            "category": "tool",
+            "priority": 0.9
+        },
+        {
+            "page_name": "Duty Finder",
+            "slug": "/india-eu-fta-duty-finder",
+            "title": "India-EU FTA Duty Calculator 2026 | Zero Tariff HS Code Search",
+            "description": "Find duty-free products under the new India-EU FTA. Search by HS code to check export tariffs on textiles, gems, auto parts & more. Updated 2026.",
+            "keywords": "India EU FTA duty free list, HS code search EU exports, zero tariff products India, customs duty EU Indian goods, textile export duty Europe, India EU trade agreement products, FTA HS code lookup, import duty calculator EU",
+            "category": "tool",
+            "priority": 0.9
+        },
+        {
+            "page_name": "Agreement Tracker",
+            "slug": "/india-eu-agreement-tracker",
+            "title": "India-EU FTA & Agreement Tracker 2026 | Live Updates & News",
+            "description": "Track all India-EU deal chapters: FTA, Security Partnership & Migration MoU. Real-time updates on the historic Jan 2026 Summit agreements.",
+            "keywords": "India-EU FTA tracker 2026, EU India Summit updates, India EU security deal, migration mobility agreement India, FTA implementation timeline, India EU trade partnership news, bilateral agreement tracker, EU India diplomatic relations",
+            "category": "tool",
+            "priority": 0.9
+        },
+        {
+            "page_name": "About",
+            "slug": "/about",
+            "title": "About IndiaToEU – Our Mission & Vision | IndiaToEU.com",
+            "description": "Learn about IndiaToEU.com — a platform empowering Indians with tools and insights to navigate the 2026 India-EU bilateral agreements on trade, visas & mobility.",
+            "keywords": "about IndiaToEU, India EU platform, India EU mission, IndiaToEU.com about us, India EU 2026 tools",
+            "category": "info",
+            "priority": 0.5
+        },
+        {
+            "page_name": "Disclaimer",
+            "slug": "/disclaimer",
+            "title": "Disclaimer – IndiaToEU.com",
+            "description": "Important disclaimer about the use of IndiaToEU.com tools and information. Read before using our Visa Checker, Duty Finder, and Salary Calculator.",
+            "keywords": "IndiaToEU disclaimer, India EU legal notice, website disclaimer, tool disclaimer",
+            "category": "legal",
+            "priority": 0.3
+        },
+        {
+            "page_name": "Terms and Conditions",
+            "slug": "/terms-and-conditions",
+            "title": "Terms & Conditions – IndiaToEU.com",
+            "description": "Terms and conditions for using IndiaToEU.com. Understand your rights and responsibilities when accessing our India-EU trade and mobility tools.",
+            "keywords": "IndiaToEU terms, terms and conditions, India EU website terms, usage policy",
+            "category": "legal",
+            "priority": 0.3
+        },
+        {
+            "page_name": "Privacy Policy",
+            "slug": "/privacy-policy",
+            "title": "Privacy Policy – IndiaToEU.com",
+            "description": "Privacy policy for IndiaToEU.com. Learn how we handle your data with a privacy-first approach. All tool calculations happen in your browser.",
+            "keywords": "IndiaToEU privacy policy, data privacy, India EU privacy, cookie policy, browser data",
+            "category": "legal",
+            "priority": 0.3
+        },
+        {
+            "page_name": "Contact",
+            "slug": "/contact",
+            "title": "Contact Us – IndiaToEU.com | info@indiatoeu.com",
+            "description": "Contact IndiaToEU.com for questions, feedback, or partnership inquiries. Reach us at info@indiatoeu.com. We respond within 24-48 hours.",
+            "keywords": "contact IndiaToEU, India EU contact, email IndiaToEU, feedback India EU, partnership inquiry",
+            "category": "info",
+            "priority": 0.4
+        },
+        {
+            "page_name": "404 Not Found",
+            "slug": "/404",
+            "title": "Page Not Found – IndiatoEU.com",
+            "description": "Oops! This page doesn't exist. Head back to explore India-EU 2026 visa rules, FTA benefits, salary calculators & trade guides.",
+            "keywords": "IndiatoEU page not found, India EU resources, FTA guide 2026, visa eligibility checker",
+            "category": "system",
+            "priority": 0.0
+        }
+    ]
+}
