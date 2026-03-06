@@ -1,0 +1,123 @@
+{
+    "description": "Timeline of landmark events in India-EU bilateral relations leading to and following the 2026 agreements.",
+    "last_updated": "2026-03-06",
+    "source": "https://indiatoeu.com/india-eu-agreement-tracker",
+    "agreements": [
+        {
+            "name": "India-EU Free Trade Agreement (FTA)",
+            "formal_title": "India-EU Comprehensive Economic Partnership Agreement",
+            "signed_date": "2026-01-15",
+            "ratification_status": "in_progress",
+            "chapters_total": 23,
+            "chapters_ratified": 18,
+            "key_provisions": [
+                "Elimination of tariffs on 8,500+ product lines",
+                "Phased tariff reduction on 3,200 additional items over 3-10 years",
+                "Mutual recognition of product standards and certifications",
+                "Digital trade chapter with data flow provisions",
+                "Sustainable development chapter with labor and environmental standards"
+            ]
+        },
+        {
+            "name": "Mobility & Migration Pact",
+            "formal_title": "India-EU Mobility and Migration Partnership Agreement",
+            "signed_date": "2026-01-15",
+            "ratification_status": "ratified",
+            "key_provisions": [
+                "Cascade visa regime for Indian nationals (1-year, 2-year, 5-year)",
+                "EU Blue Card facilitation for Indian skilled workers",
+                "Youth mobility scheme for professionals under 35",
+                "Mutual social security coordination",
+                "Readmission cooperation framework"
+            ]
+        },
+        {
+            "name": "Security & Strategic Partnership",
+            "formal_title": "India-EU Security and Defense Partnership Framework",
+            "signed_date": "2026-01-15",
+            "ratification_status": "in_progress",
+            "key_provisions": [
+                "Joint naval exercises in Indian Ocean Region",
+                "Cybersecurity cooperation and information sharing",
+                "Counter-terrorism intelligence framework",
+                "Critical technology co-development in AI, quantum, and semiconductors",
+                "Space cooperation under Gaganyaan-ESA collaboration"
+            ]
+        },
+        {
+            "name": "Green Alliance",
+            "formal_title": "India-EU Clean Energy and Climate Partnership",
+            "signed_date": "2026-01-15",
+            "ratification_status": "ratified",
+            "key_provisions": [
+                "€10 billion green investment corridor",
+                "Joint solar manufacturing initiatives",
+                "Green hydrogen pilot projects",
+                "Carbon credit mutual recognition",
+                "Joint climate adaptation fund for developing nations"
+            ]
+        }
+    ],
+    "timeline": [
+        {
+            "date": "2007-06",
+            "event": "India-EU FTA negotiations officially launched at the India-EU Summit in Helsinki.",
+            "significance": "high"
+        },
+        {
+            "date": "2013-05",
+            "event": "Negotiations suspended due to disagreements on tariff levels and data exclusivity in pharmaceuticals.",
+            "significance": "high"
+        },
+        {
+            "date": "2021-05",
+            "event": "EU-India Leaders' Meeting: Both sides agree to resume negotiations with a broader scope.",
+            "significance": "high"
+        },
+        {
+            "date": "2022-06",
+            "event": "EU-India Trade and Technology Council (TTC) established to deepen strategic cooperation.",
+            "significance": "medium"
+        },
+        {
+            "date": "2023-02",
+            "event": "Third round of resumed FTA negotiations in New Delhi covers goods, services, and investment.",
+            "significance": "medium"
+        },
+        {
+            "date": "2024-03",
+            "event": "Chief negotiators report 'substantial progress' on 15 of 23 FTA chapters.",
+            "significance": "medium"
+        },
+        {
+            "date": "2025-01",
+            "event": "India and EU agree on the 'Cascade Regime' framework for visa facilitation of Indian nationals.",
+            "significance": "high"
+        },
+        {
+            "date": "2025-06",
+            "event": "12th round of negotiations in Brussels achieves breakthrough on automotive tariff phase-out schedule.",
+            "significance": "high"
+        },
+        {
+            "date": "2025-11",
+            "event": "16th and final negotiation round concludes in Brussels, covering all 23 FTA chapters and the visa cascade mechanism.",
+            "significance": "high"
+        },
+        {
+            "date": "2026-01-15",
+            "event": "Historic signing ceremony in New Delhi. India and EU formally sign bilateral agreements covering trade, mobility, and security.",
+            "significance": "critical"
+        },
+        {
+            "date": "2026-02",
+            "event": "European Parliament votes 412-89 in favor of the India-EU FTA framework, clearing the way for national ratifications.",
+            "significance": "high"
+        },
+        {
+            "date": "2026-03",
+            "event": "Cascade visa regime goes into effect. Indian nationals can now apply under the new tier system.",
+            "significance": "high"
+        }
+    ]
+}

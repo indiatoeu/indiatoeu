@@ -1,0 +1,244 @@
+{
+    "description": "Top Indian export sectors to EU with FTA tariff reduction details under the 2026 India-EU Free Trade Agreement.",
+    "last_updated": "2026-03-06",
+    "source": "https://indiatoeu.com/india-eu-fta-duty-finder",
+    "fta_summary": {
+        "signed_date": "2026-01-15",
+        "effective_date": "2026-07-01",
+        "total_chapters": 23,
+        "zero_tariff_items": 8500,
+        "phased_reduction_items": 3200,
+        "sensitive_list_items": 1400,
+        "total_bilateral_trade_2025_eur_billion": 120
+    },
+    "sectors": [
+        {
+            "sector": "Textiles & Apparel",
+            "hs_chapter_range": "50-63",
+            "pre_fta_avg_duty_pct": 12,
+            "post_fta_avg_duty_pct": 0,
+            "phase_out_years": 0,
+            "annual_export_value_eur_million": 8200,
+            "key_products": [
+                "cotton fabrics",
+                "ready-made garments",
+                "silk textiles",
+                "carpets",
+                "technical textiles"
+            ],
+            "top_destination_countries": [
+                "DE",
+                "FR",
+                "IT",
+                "ES",
+                "NL"
+            ],
+            "notes": "Immediate zero-tariff access under the FTA. India's largest export category to EU."
+        },
+        {
+            "sector": "Gems & Jewelry",
+            "hs_chapter_range": "71",
+            "pre_fta_avg_duty_pct": 2.5,
+            "post_fta_avg_duty_pct": 0,
+            "phase_out_years": 0,
+            "annual_export_value_eur_million": 7800,
+            "key_products": [
+                "cut & polished diamonds",
+                "gold jewelry",
+                "silver articles",
+                "synthetic stones"
+            ],
+            "top_destination_countries": [
+                "BE",
+                "NL",
+                "DE",
+                "IT",
+                "FR"
+            ],
+            "notes": "Belgium (Antwerp) remains the primary diamond trading hub."
+        },
+        {
+            "sector": "Pharmaceuticals",
+            "hs_chapter_range": "30",
+            "pre_fta_avg_duty_pct": 6.5,
+            "post_fta_avg_duty_pct": 0,
+            "phase_out_years": 3,
+            "annual_export_value_eur_million": 6500,
+            "key_products": [
+                "generic medicines",
+                "active pharmaceutical ingredients",
+                "vaccines",
+                "biologics"
+            ],
+            "top_destination_countries": [
+                "DE",
+                "FR",
+                "NL",
+                "BE",
+                "IE"
+            ],
+            "notes": "3-year phase-out with mutual recognition of GMP standards."
+        },
+        {
+            "sector": "Automotive Components",
+            "hs_chapter_range": "84-87",
+            "pre_fta_avg_duty_pct": 10,
+            "post_fta_avg_duty_pct": 2.5,
+            "phase_out_years": 7,
+            "annual_export_value_eur_million": 4200,
+            "key_products": [
+                "engine parts",
+                "gearbox components",
+                "electrical systems",
+                "body panels",
+                "EV battery parts"
+            ],
+            "top_destination_countries": [
+                "DE",
+                "FR",
+                "CZ",
+                "PL",
+                "SK"
+            ],
+            "notes": "7-year gradual reduction. EV components get accelerated zero-duty track."
+        },
+        {
+            "sector": "Information Technology & Software",
+            "hs_chapter_range": "8471-8473",
+            "pre_fta_avg_duty_pct": 0,
+            "post_fta_avg_duty_pct": 0,
+            "phase_out_years": 0,
+            "annual_export_value_eur_million": 12000,
+            "key_products": [
+                "IT services",
+                "software development",
+                "cloud services",
+                "data analytics",
+                "cybersecurity"
+            ],
+            "top_destination_countries": [
+                "DE",
+                "NL",
+                "IE",
+                "FR",
+                "SE"
+            ],
+            "notes": "Already zero-tariff. FTA adds services trade facilitation and mutual MRA for IT professionals."
+        },
+        {
+            "sector": "Chemicals & Petrochemicals",
+            "hs_chapter_range": "28-38",
+            "pre_fta_avg_duty_pct": 6.5,
+            "post_fta_avg_duty_pct": 0,
+            "phase_out_years": 5,
+            "annual_export_value_eur_million": 5100,
+            "key_products": [
+                "organic chemicals",
+                "dyes",
+                "pigments",
+                "agrochemicals",
+                "specialty chemicals"
+            ],
+            "top_destination_countries": [
+                "DE",
+                "NL",
+                "BE",
+                "FR",
+                "IT"
+            ],
+            "notes": "5-year phase-out with REACH compliance fast-track for Indian manufacturers."
+        },
+        {
+            "sector": "Agriculture & Food Products",
+            "hs_chapter_range": "01-24",
+            "pre_fta_avg_duty_pct": 14,
+            "post_fta_avg_duty_pct": 5,
+            "phase_out_years": 10,
+            "annual_export_value_eur_million": 3800,
+            "key_products": [
+                "basmati rice",
+                "spices",
+                "tea",
+                "marine products",
+                "organic produce"
+            ],
+            "top_destination_countries": [
+                "DE",
+                "NL",
+                "FR",
+                "IT",
+                "ES"
+            ],
+            "notes": "Sensitive sector with longest phase-out period. GI-tagged products get preferential treatment."
+        },
+        {
+            "sector": "Leather & Footwear",
+            "hs_chapter_range": "41-43, 64",
+            "pre_fta_avg_duty_pct": 8,
+            "post_fta_avg_duty_pct": 0,
+            "phase_out_years": 0,
+            "annual_export_value_eur_million": 2100,
+            "key_products": [
+                "finished leather",
+                "leather garments",
+                "footwear",
+                "handbags",
+                "accessories"
+            ],
+            "top_destination_countries": [
+                "IT",
+                "DE",
+                "FR",
+                "ES",
+                "NL"
+            ],
+            "notes": "Immediate zero duty. Italy is the top market for Indian leather goods."
+        },
+        {
+            "sector": "Engineering Goods",
+            "hs_chapter_range": "72-83",
+            "pre_fta_avg_duty_pct": 4,
+            "post_fta_avg_duty_pct": 0,
+            "phase_out_years": 3,
+            "annual_export_value_eur_million": 6800,
+            "key_products": [
+                "iron & steel products",
+                "aluminum",
+                "copper articles",
+                "hand tools",
+                "industrial machinery"
+            ],
+            "top_destination_countries": [
+                "DE",
+                "IT",
+                "NL",
+                "BE",
+                "FR"
+            ],
+            "notes": "Strong mutual demand. Many products already enjoy low tariffs; FTA moves them to zero."
+        },
+        {
+            "sector": "Renewable Energy Equipment",
+            "hs_chapter_range": "8541, 8501-8504",
+            "pre_fta_avg_duty_pct": 8,
+            "post_fta_avg_duty_pct": 0,
+            "phase_out_years": 0,
+            "annual_export_value_eur_million": 1800,
+            "key_products": [
+                "solar panels",
+                "wind turbine components",
+                "inverters",
+                "battery systems",
+                "smart grid equipment"
+            ],
+            "top_destination_countries": [
+                "DE",
+                "DK",
+                "NL",
+                "SE",
+                "FR"
+            ],
+            "notes": "Zero-tariff from day one to support EU Green Deal and India's renewable manufacturing ambitions."
+        }
+    ]
+}

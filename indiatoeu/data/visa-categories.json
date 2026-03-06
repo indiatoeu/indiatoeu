@@ -1,0 +1,86 @@
+{
+    "description": "Schengen Cascade Visa Regime categories for Indian nationals under the 2026 India-EU Mobility Pact.",
+    "last_updated": "2026-03-06",
+    "source": "https://indiatoeu.com/india-to-eu-visa-checker",
+    "cascade_tiers": [
+        {
+            "tier": 1,
+            "name": "Standard Short-Stay",
+            "duration": "90 days in 180-day period",
+            "validity": "up to 1 year",
+            "entry_type": "single or double entry",
+            "eligibility_criteria": [
+                "Valid Indian passport (6+ months remaining)",
+                "First-time Schengen applicant or no prior visa history",
+                "Standard documentation: invitation, hotel booking, travel insurance",
+                "Proof of financial means (€65-120/day depending on country)"
+            ],
+            "processing_time_days": "10-15",
+            "fee_eur": 80,
+            "success_rate_indicator": "standard"
+        },
+        {
+            "tier": 2,
+            "name": "Enhanced Multi-Entry",
+            "duration": "90 days in 180-day period",
+            "validity": "2 years",
+            "entry_type": "multiple entry",
+            "eligibility_criteria": [
+                "At least 2 prior Schengen visas used lawfully within 3 years",
+                "No overstay history",
+                "Stable employment or business in India",
+                "Clean travel record with timely departures"
+            ],
+            "processing_time_days": "10-15",
+            "fee_eur": 80,
+            "success_rate_indicator": "elevated"
+        },
+        {
+            "tier": 3,
+            "name": "Premium Long-Term",
+            "duration": "90 days in 180-day period",
+            "validity": "5 years",
+            "entry_type": "multiple entry",
+            "eligibility_criteria": [
+                "Previously held and lawfully used a 2-year multi-entry Schengen visa",
+                "Strong travel record across multiple Schengen states",
+                "Demonstrated ties to India (property, employment, family)",
+                "No immigration violations of any kind"
+            ],
+            "processing_time_days": "10-15",
+            "fee_eur": 80,
+            "success_rate_indicator": "high"
+        }
+    ],
+    "special_categories": [
+        {
+            "name": "EU Blue Card Holder Dependents",
+            "description": "Spouse and minor children of Indian EU Blue Card holders get expedited multi-entry visa processing.",
+            "processing_time_days": "5-7",
+            "validity": "matches Blue Card holder visa validity"
+        },
+        {
+            "name": "Business Travelers (BTIA Track)",
+            "description": "Professionals covered under Bilateral Trade and Investment Agreement get streamlined processing.",
+            "processing_time_days": "5-10",
+            "validity": "up to 3 years"
+        },
+        {
+            "name": "Academic & Research Visa",
+            "description": "Researchers and academics collaborating with EU institutions under Horizon Europe framework.",
+            "processing_time_days": "7-10",
+            "validity": "duration of program + 90 days"
+        }
+    ],
+    "required_documents": [
+        "Valid Indian passport with 2+ blank pages",
+        "Completed Schengen visa application form",
+        "2 recent passport-size photographs (ICAO standard)",
+        "Travel medical insurance (min €30,000 coverage)",
+        "Proof of accommodation in EU",
+        "Round-trip flight reservation",
+        "Bank statements (last 6 months)",
+        "Employment letter or business registration",
+        "Previous Schengen visa copies (for Tier 2/3)"
+    ]
+}
